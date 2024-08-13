@@ -1,5 +1,8 @@
 ---
 title: "Cache Nelson's Analysis Portfolio"
+output:
+  html_document:
+    theme: cerulean
 ---
 
 Hello, Website!
